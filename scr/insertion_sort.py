@@ -8,7 +8,7 @@ for i in range(15,0,-1):
 print(n)
 
 print('\n', '=' *75, sep='')
-print('Arr[0]:\t\t', n, sep='')
+print('Arr 0:\t\t', n, sep='')
 for j in range(1,len(n),1):
    key = n[j]
    i = j -1
@@ -16,7 +16,7 @@ for j in range(1,len(n),1):
        n[i +1] = n[i]
        i = i -1
    n[i +1] = key
-   print('Arr[', j,']: \t', n, sep='')
+   print('Arr ', j,':  \t', n, sep='')
 print('=' *75, '\n', sep='')
 
 print(n,'\n')

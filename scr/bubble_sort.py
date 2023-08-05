@@ -14,6 +14,7 @@ for i in range(0, len(n) -1, 1):
             temp = n[j]
             n[j] = n[j -1]
             n[j -1] = temp
-    print('Arr[', i, ']:\t\t', n, sep='')
+        print('Arr ', i, ':\t\t', n, sep='')
+    print('\n')
 
 print(n, '\n')
