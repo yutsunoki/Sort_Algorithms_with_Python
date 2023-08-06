@@ -11,3 +11,7 @@ This is my practical aboud bubble sort, insertion sort, and marge sort with pyth
 ### Insertion sort
 ![insertionsort](https://github.com/yutsunoki/Sort_Algorithms_with_Python/blob/main/img/insertionsort/Screenshot%202023-08-05%20201128.png)
 ![insertionAnimation](https://github.com/yutsunoki/Sort_Algorithms_with_Python/blob/main/img/insertionsort/Insertion.gif)
+### Merge sort
+![mergesort](https://github.com/yutsunoki/Sort_Algorithms_with_Python/blob/main/img/mergesort/Screenshot%202023-08-04%20210840.png)
+![mergesort1](https://github.com/yutsunoki/Sort_Algorithms_with_Python/blob/main/img/mergesort/Screenshot%202023-08-04%20215755.png)
+![mergeAnimation](https://github.com/yutsunoki/Sort_Algorithms_with_Python/blob/main/img/mergesort/merge.gif)
